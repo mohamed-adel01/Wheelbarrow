@@ -101,6 +101,6 @@ with col2:
         )
 st.markdown("---")
 # Replace YOUR_USERNAME and YOUR_REPO_NAME with your actual GitHub details
-github_username = "YOUR_USERNAME" # Change this
-repo_name = "YOUR_REPO_NAME"     # Change this
+github_username = "mohamed-adel01" # Change this
+repo_name = "Wheelbarrow"     # Change this
 st.markdown(f"الكود المصدري على [GitHub](https://github.com/{github_username}/{repo_name})")
